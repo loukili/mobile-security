@@ -1,8 +1,8 @@
 Introduction
 ===============
-A plug n play appliance to secure server side REST/SOAP Apis for Mobile apps access.
+A plug n play appliance to secure server side REST Apis for Mobile apps access.
 
-The goal of this project is to offer an easy way to handle mobile apps authentication, access/secret keys management, traking, etc from server side apis and applications.
+The goal of this project is to offer an easy way to handle mobile apps authentication, access/secret keys management, traking, managing rate limits, etc from server side apis and applications.
 
 When creating mobile apps, the first thing to think about is how your api will be consumed? 
 - By only your mobile app? 
@@ -15,9 +15,9 @@ Road Map
 - Design & Architecture
 - Serurity Keys Management 
   - Generate keys, enable/disable keys, issuing keys
-- Authentication 
+- Authentication API 
   - In-place auth / delegate auth
-- Plugins support
+- Plugins API
+  - Rate limit plugin
   - User Experience
-  - Social/Cloud Connectors
   
