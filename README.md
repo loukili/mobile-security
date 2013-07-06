@@ -1,6 +1,6 @@
 Introduction
 ===============
-A plug n play appliance to secure server side REST Apis for Mobile apps access.
+A plug n play REST Api management system for Mobile apps access.
 
 The goal of this project is to offer an easy way to handle mobile apps authentication, access/secret keys management, traking, managing rate limits, etc from server side apis and applications.
 
@@ -20,4 +20,10 @@ Road Map
 - Plugins API
   - Rate limit plugin
   - User Experience
+- Installation
+  - Standalone
+  - AWS appliance
+- Mobile code snippets
+  - for iOS
+  - for Android
   
